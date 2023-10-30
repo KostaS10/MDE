@@ -1955,10 +1955,5 @@ if($isFileExist -eq $false)
     [IO.File]::WriteAllBytes($filename, [Convert]::FromBase64String($base64File))
 }
 
-Add-Type -AssemblyName presentationCore
-$mediaPlayer = New-Object system.windows.media.mediaplayer
-$mediaPlayer.open("$scriptDir\play.mp3")
-$mediaPlayer.Play()  
-
 #Launch The Menu
 Menu

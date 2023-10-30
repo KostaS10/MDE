@@ -67,13 +67,9 @@ $menuArt = @"
 
                                   __________________________________________________
                                   |                                                 |
-                                  | HELLO                                           |
                                   |                                                 |
-                                  | A STRANGE GAME.                                 |
-                                  | THE ONLY LOSING MOVE IS                         |
-                                  | NOT TO PLAY.                                    |
                                   |                                                 |
-                                  | HOW ABOUT A NICE GAME OF CHESS?                 |
+                                  | OPTIONS:                                        |
                                   |                                                 |
                                   |  1.  CHECK PLATFORM/ENGINE                      |
                                   |  2.  CHECK TAMPER PROTECTION                    |
